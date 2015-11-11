@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeDownload</key>
+	<dict>
+		<key>appOpenUrl</key>
+		<string>christmascoloring://</string>
+		<key>appStoreUrl</key>
+		<string>https://itunes.apple.com/app/id1018448107</string>
+	</dict>
+</dict>
+</plist>
