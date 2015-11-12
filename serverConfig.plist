@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>freeDownloadOpenUrl</key>
-	<string>animalcoloring://</string>
+	<string>christmascoloring://</string>
 	<key>freeDownloadStoreUrl</key>
 	<string>https://itunes.apple.com/app/id1018448107</string>
 </dict>
