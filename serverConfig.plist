@@ -5,6 +5,6 @@
 	<key>freeDownloadOpenUrl</key>
 	<string>coloring://</string>
 	<key>freeDownloadStoreUrl</key>
-	<string>https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fcoloringbookforadults</string>
+	<string>itms://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fcoloringbookforadults</string>
 </dict>
 </plist>
