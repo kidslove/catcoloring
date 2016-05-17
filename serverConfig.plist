@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>freeDownloadOpenUrl</key>
-	<string>coloring://</string>
+	<string>animalcoloring://</string>
 	<key>freeDownloadStoreUrl</key>
-	<string>itms://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fcoloringbookforadults</string>
+	<string>https://t.co/7MdHqMKxxz</string>
 </dict>
 </plist>
